@@ -1,0 +1,224 @@
+snapshot_at,query,video_id,title,channel_title,published_at,view_count,like_count
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,1uwusqnt1kk,📣 Evolution of Threat Modeling | Shift from DevOps to DevSecOps | @Akeyless,Practical DevSecOps,2022-09-19 00:00:00+00:00,2403,20
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,BaHtngVVPv0,Breaking AI: Exploiting AI-Generated Code | DevSecOps SG,BCS Member Groups,2024-05-29 00:00:00+00:00,200,4
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,e9VWiK25DgI,Secure System Architecture and Design | BCS ISSG and DevSecOps SG,BCS Member Groups,2024-09-27 00:00:00+00:00,125,4
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,8wfa0WTFoFc,"SPA-358 OAG, the new OWASP Application Gateway (Patrick Steger, Gian-Luca Frei, Zühlke, 1 Sep 2021)",BCS Member Groups,2021-09-01 00:00:00+00:00,118,2
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,9FDnXxZV3tI,Container and Kubernetes: Security is not an afterthought | BCS DevSecOps specialist group,BCS Member Groups,2021-11-02 00:00:00+00:00,108,1
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,JKUiQ5GssaA,What is Threat Modelling and how it supports DevSecOps processes | BCS DevSecOps specialist group,BCS Member Groups,2022-03-30 00:00:00+00:00,98,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,Mnp9fhrfg1s,Strategies for Threat Modelling - DevSecOps,BCS Member Groups,2023-04-25 00:00:00+00:00,93,1
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,wFxHcsPhC5E,Moving to the cloud securely with DevSecOps,BCS Member Groups,2023-02-02 00:00:00+00:00,77,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,_4aTBjf89rg,No DevSecOps? Plan B: Risk-Driven Application Testing | BCS London Central & North Branches,BCS Member Groups,2023-04-11 00:00:00+00:00,61,4
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,M2QImShE55c,DevOps & DevSecOps fundamentals | DevSecOps SG,BCS Member Groups,2024-01-02 00:00:00+00:00,56,1
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,NAuSUzwsEKY,Starting the DevSecOps journey - DevSecOps SG,BCS Member Groups,2022-06-21 00:00:00+00:00,46,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,IeNrrXKal0w,Platform Engineering | DevSecOps SG,BCS Member Groups,2024-10-29 00:00:00+00:00,42,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,2t6beAamzto,"Threat Modelling in the Cloud: Tools, Frameworks and Live Demos | Devsecops specialist group",BCS Member Groups,2025-06-04 00:00:00+00:00,29,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,_cqcTlWWheg,"Observability in DevSecOps, Wider Than Three Pillars | DevSecOps SG",BCS Member Groups,2025-05-19 00:00:00+00:00,28,1
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,pe36YwI1gYk,Secure and Repeatable Deployments through Strong Secrets Management | Devsecops specialist group,BCS Member Groups,2023-09-29 00:00:00+00:00,27,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,Ng4m_PLoBTM,Automating the software supply chain to reduce application security risks |  DevSecOps SG,BCS Member Groups,2022-11-25 00:00:00+00:00,27,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,DoXeJY3ofZs,Software supply chain integrity | BCS DevSecOps specialist group,BCS Member Groups,2021-12-23 00:00:00+00:00,26,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,BeXoMObbC_c,The DevSecOps Journey: your fast track pass | DevSecOps SG,BCS Member Groups,2025-12-03 00:00:00+00:00,21,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,5O4FBmWO1t4,AGM + Establishing sustainable DevSecOps practices | DevSecOps,BCS Member Groups,2024-12-18 00:00:00+00:00,18,0
+2026-05-24 21:44:31.645869+00:00,BCS DevSecOps Group,y5iCJjC0ghE,Modernising Greenpeace Technical Operations Delivery with Automation | DevSecOps SG,BCS Member Groups,2025-07-30 00:00:00+00:00,16,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,oOTRqoUZsWM,USAF/Northrop Grumman: Lean-Agile Mindset & DevSecOps in a Multi-billion Dollar Defense System,"Scaled Agile, Inc.",2021-11-02 00:00:00+00:00,3559,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,y6ZSgiBHLXc,What is DevOps? What is DevSecOps? - live streamed 20-Nov,GitHub,2020-11-20 00:00:00+00:00,3462,65
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,PZ4anzh8tZI,🚨 How difficult is it to put threat models into practice? | @Akeyless,Practical DevSecOps,2022-09-21 00:00:00+00:00,3207,10
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,1uwusqnt1kk,📣 Evolution of Threat Modeling | Shift from DevOps to DevSecOps | @Akeyless,Practical DevSecOps,2022-09-19 00:00:00+00:00,2403,20
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,S5YK0IHUtZo,🔴 What is Threat Modeling? | Threat Modeling With Code | #DevSecOps LIVE 📌,Practical DevSecOps,2022-06-29 00:00:00+00:00,1756,26
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,JBbVTmrZ45E,Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You... Ian Coldwater & Brad Geesaman,CNCF [Cloud Native Computing Foundation],2021-10-29 00:00:00+00:00,1719,46
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,2gGbJa_pGbM,WEBINAR: Key criteria for evaluating DevSecOps tools,Pluralsight,2021-11-03 00:00:00+00:00,1150,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,7Sbqe6aoWYM,Quick Look: What Could Possibly Go Wrong? Plain Language Threat Modeling in DevSecOps,RSAC Cybersecurity,2022-04-08 00:00:00+00:00,610,14
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,FzoQcUCVvuM,Applying DevSecOps to Kubernetes,Platform Engineering,2022-01-26 00:00:00+00:00,450,8
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,lwWR9QqrEnc,DevOps: The Future of Change Management | BCS Edinburgh branch,BCS Member Groups,2021-03-23 00:00:00+00:00,221,8
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,RhpZkmE-lOs,"OWASP Cambridge & BCS Cybercrime SG “Adding SAST to CI/CD, Without Losing Any Friends” - Tanya Janca",OWASP Cambridge,2023-10-04 00:00:00+00:00,206,8
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,BaHtngVVPv0,Breaking AI: Exploiting AI-Generated Code | DevSecOps SG,BCS Member Groups,2024-05-29 00:00:00+00:00,200,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,m6Ij1SmuC80,OpenShift Commons Briefing Why DevSecOps is Critical for Kubernetes Kirsten Newcomer (RedHat),OpenShift,2020-05-25 00:00:00+00:00,190,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,orHnqX9kmos,CISO Developed DevSecOps Supply Chain Best Practices,Cyber Risk Collaborative - A CRA Resource,2022-02-17 00:00:00+00:00,143,3
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,nDQP-kIbOqM,AppSec is Dead  Long Live DevSecOps!   Matias Madou,OWASP Foundation,2021-11-04 00:00:00+00:00,137,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,7cCuftPSIU0,The State of DevSecOps: Application Security,Techstrong TV,2021-11-04 00:00:00+00:00,135,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,0fRYNaeGW_k,Tanzu Talk: What is DevSecOps? Part One: A Secure Software Supply Chain,VMware Tanzu,2022-05-24 00:00:00+00:00,127,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,rtw2HKx-xXg,Episode 3: DevSecOps Coffee Break Series | Securing Your Software Supply Chain,JFrog,2021-12-02 00:00:00+00:00,126,2
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,e9VWiK25DgI,Secure System Architecture and Design | BCS ISSG and DevSecOps SG,BCS Member Groups,2024-09-27 00:00:00+00:00,125,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,XbLxDFGi0Ag,DevSecOps the OWASP Way | DevSecOps SG,BCS Member Groups,2025-03-13 00:00:00+00:00,123,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,8wfa0WTFoFc,"SPA-358 OAG, the new OWASP Application Gateway (Patrick Steger, Gian-Luca Frei, Zühlke, 1 Sep 2021)",BCS Member Groups,2021-09-01 00:00:00+00:00,118,2
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,9FDnXxZV3tI,Container and Kubernetes: Security is not an afterthought | BCS DevSecOps specialist group,BCS Member Groups,2021-11-02 00:00:00+00:00,108,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,IibSxFhEAhc,Tech Weeklies - Transition from DevOps to DevSecOps through Threat Modelling - Bruno Almeida,Futurice,2019-06-17 00:00:00+00:00,106,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,JKUiQ5GssaA,What is Threat Modelling and how it supports DevSecOps processes | BCS DevSecOps specialist group,BCS Member Groups,2022-03-30 00:00:00+00:00,98,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,Xzwq_Ea4cvw,Scaled Agile Framework (SAFe) | BCS London West branch event,BCS Member Groups,2021-07-07 00:00:00+00:00,96,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,rSeKtGOgwKg,DevSecOps: Pre-Empting Software Supply Chain Attacks | Accolite Digital Connect,Bounteous x Accolite,2022-01-14 00:00:00+00:00,94,3
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,Mnp9fhrfg1s,Strategies for Threat Modelling - DevSecOps,BCS Member Groups,2023-04-25 00:00:00+00:00,93,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,wFxHcsPhC5E,Moving to the cloud securely with DevSecOps,BCS Member Groups,2023-02-02 00:00:00+00:00,77,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,7ubWajfdr8w,"Building Trusted Software Supply Chains a DevSecOps Journey - Henri van den Bulk, VMware",LF Energy,2021-04-21 00:00:00+00:00,73,2
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,c6lNde6zeMY,Defending Software Supply Chain Attacks with Kubernetes and DevSecOps,Techstrong TV,2021-11-15 00:00:00+00:00,69,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,AiJAv005ZJI,Gaining experience in the Technology sector | DevSecOps SG,BCS Member Groups,2020-12-16 00:00:00+00:00,65,2
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,_4aTBjf89rg,No DevSecOps? Plan B: Risk-Driven Application Testing | BCS London Central & North Branches,BCS Member Groups,2023-04-11 00:00:00+00:00,61,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,M2QImShE55c,DevOps & DevSecOps fundamentals | DevSecOps SG,BCS Member Groups,2024-01-02 00:00:00+00:00,56,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,BW6flUfZyHo,Panel 1: The DevOps Talent Crunch – Building & Retaining High-Performing Teams,Quantic India,2025-10-07 00:00:00+00:00,52,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,NAuSUzwsEKY,Starting the DevSecOps journey - DevSecOps SG,BCS Member Groups,2022-06-21 00:00:00+00:00,46,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,IeNrrXKal0w,Platform Engineering | DevSecOps SG,BCS Member Groups,2024-10-29 00:00:00+00:00,42,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,K8BfjJvkTBc,Will the real 'Shift Left' please stand up? Devsecops Specialist Group,BCS Member Groups,2024-03-04 00:00:00+00:00,36,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,Bur1euKu9xg,DevSecOps in the Age of Software Supply Chain Attacks - 24. April 2020,No Cabin Fever Today,2020-04-27 00:00:00+00:00,34,4
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,2t6beAamzto,"Threat Modelling in the Cloud: Tools, Frameworks and Live Demos | Devsecops specialist group",BCS Member Groups,2025-06-04 00:00:00+00:00,29,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,_cqcTlWWheg,"Observability in DevSecOps, Wider Than Three Pillars | DevSecOps SG",BCS Member Groups,2025-05-19 00:00:00+00:00,28,1
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,pe36YwI1gYk,Secure and Repeatable Deployments through Strong Secrets Management | Devsecops specialist group,BCS Member Groups,2023-09-29 00:00:00+00:00,27,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,Ng4m_PLoBTM,Automating the software supply chain to reduce application security risks |  DevSecOps SG,BCS Member Groups,2022-11-25 00:00:00+00:00,27,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,DoXeJY3ofZs,Software supply chain integrity | BCS DevSecOps specialist group,BCS Member Groups,2021-12-23 00:00:00+00:00,26,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,BeXoMObbC_c,The DevSecOps Journey: your fast track pass | DevSecOps SG,BCS Member Groups,2025-12-03 00:00:00+00:00,21,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,5O4FBmWO1t4,AGM + Establishing sustainable DevSecOps practices | DevSecOps,BCS Member Groups,2024-12-18 00:00:00+00:00,18,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,BCS Member Groups,2026-03-12 00:00:00+00:00,17,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,y5iCJjC0ghE,Modernising Greenpeace Technical Operations Delivery with Automation | DevSecOps SG,BCS Member Groups,2025-07-30 00:00:00+00:00,16,0
+2026-05-24 21:51:57.346265+00:00,BCS DevSecOps Group,LfQcf58mhUI,What is DevSecOps and Why it's Important to Adapt it Nowadays - Virtual Developers Conference 2020,Mauritius Software Craftsmanship Community,2021-02-06 00:00:00+00:00,16,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,oOTRqoUZsWM,USAF/Northrop Grumman: Lean-Agile Mindset & DevSecOps in a Multi-billion Dollar Defense System,"Scaled Agile, Inc.",2021-11-02 00:00:00+00:00,3559,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,y6ZSgiBHLXc,What is DevOps? What is DevSecOps? - live streamed 20-Nov,GitHub,2020-11-20 00:00:00+00:00,3462,65
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,PZ4anzh8tZI,🚨 How difficult is it to put threat models into practice? | @Akeyless,Practical DevSecOps,2022-09-21 00:00:00+00:00,3207,10
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,1uwusqnt1kk,📣 Evolution of Threat Modeling | Shift from DevOps to DevSecOps | @Akeyless,Practical DevSecOps,2022-09-19 00:00:00+00:00,2403,20
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,S5YK0IHUtZo,🔴 What is Threat Modeling? | Threat Modeling With Code | #DevSecOps LIVE 📌,Practical DevSecOps,2022-06-29 00:00:00+00:00,1756,26
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,JBbVTmrZ45E,Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You... Ian Coldwater & Brad Geesaman,CNCF [Cloud Native Computing Foundation],2021-10-29 00:00:00+00:00,1719,46
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,2gGbJa_pGbM,WEBINAR: Key criteria for evaluating DevSecOps tools,Pluralsight,2021-11-03 00:00:00+00:00,1150,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,7Sbqe6aoWYM,Quick Look: What Could Possibly Go Wrong? Plain Language Threat Modeling in DevSecOps,RSAC Cybersecurity,2022-04-08 00:00:00+00:00,610,14
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,FzoQcUCVvuM,Applying DevSecOps to Kubernetes,Platform Engineering,2022-01-26 00:00:00+00:00,450,8
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,lwWR9QqrEnc,DevOps: The Future of Change Management | BCS Edinburgh branch,BCS Member Groups,2021-03-23 00:00:00+00:00,221,8
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,RhpZkmE-lOs,"OWASP Cambridge & BCS Cybercrime SG “Adding SAST to CI/CD, Without Losing Any Friends” - Tanya Janca",OWASP Cambridge,2023-10-04 00:00:00+00:00,206,8
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,BaHtngVVPv0,Breaking AI: Exploiting AI-Generated Code | DevSecOps SG,BCS Member Groups,2024-05-29 00:00:00+00:00,200,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,m6Ij1SmuC80,OpenShift Commons Briefing Why DevSecOps is Critical for Kubernetes Kirsten Newcomer (RedHat),OpenShift,2020-05-25 00:00:00+00:00,190,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,orHnqX9kmos,CISO Developed DevSecOps Supply Chain Best Practices,Cyber Risk Collaborative - A CRA Resource,2022-02-17 00:00:00+00:00,143,3
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,nDQP-kIbOqM,AppSec is Dead  Long Live DevSecOps!   Matias Madou,OWASP Foundation,2021-11-04 00:00:00+00:00,137,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,7cCuftPSIU0,The State of DevSecOps: Application Security,Techstrong TV,2021-11-04 00:00:00+00:00,135,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,0fRYNaeGW_k,Tanzu Talk: What is DevSecOps? Part One: A Secure Software Supply Chain,VMware Tanzu,2022-05-24 00:00:00+00:00,127,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,rtw2HKx-xXg,Episode 3: DevSecOps Coffee Break Series | Securing Your Software Supply Chain,JFrog,2021-12-02 00:00:00+00:00,126,2
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,e9VWiK25DgI,Secure System Architecture and Design | BCS ISSG and DevSecOps SG,BCS Member Groups,2024-09-27 00:00:00+00:00,125,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,XbLxDFGi0Ag,DevSecOps the OWASP Way | DevSecOps SG,BCS Member Groups,2025-03-13 00:00:00+00:00,123,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,8wfa0WTFoFc,"SPA-358 OAG, the new OWASP Application Gateway (Patrick Steger, Gian-Luca Frei, Zühlke, 1 Sep 2021)",BCS Member Groups,2021-09-01 00:00:00+00:00,118,2
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,9FDnXxZV3tI,Container and Kubernetes: Security is not an afterthought | BCS DevSecOps specialist group,BCS Member Groups,2021-11-02 00:00:00+00:00,108,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,IibSxFhEAhc,Tech Weeklies - Transition from DevOps to DevSecOps through Threat Modelling - Bruno Almeida,Futurice,2019-06-17 00:00:00+00:00,106,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,JKUiQ5GssaA,What is Threat Modelling and how it supports DevSecOps processes | BCS DevSecOps specialist group,BCS Member Groups,2022-03-30 00:00:00+00:00,98,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,Xzwq_Ea4cvw,Scaled Agile Framework (SAFe) | BCS London West branch event,BCS Member Groups,2021-07-07 00:00:00+00:00,96,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,rSeKtGOgwKg,DevSecOps: Pre-Empting Software Supply Chain Attacks | Accolite Digital Connect,Bounteous x Accolite,2022-01-14 00:00:00+00:00,94,3
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,Mnp9fhrfg1s,Strategies for Threat Modelling - DevSecOps,BCS Member Groups,2023-04-25 00:00:00+00:00,93,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,wFxHcsPhC5E,Moving to the cloud securely with DevSecOps,BCS Member Groups,2023-02-02 00:00:00+00:00,77,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,7ubWajfdr8w,"Building Trusted Software Supply Chains a DevSecOps Journey - Henri van den Bulk, VMware",LF Energy,2021-04-21 00:00:00+00:00,73,2
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,c6lNde6zeMY,Defending Software Supply Chain Attacks with Kubernetes and DevSecOps,Techstrong TV,2021-11-15 00:00:00+00:00,69,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,AiJAv005ZJI,Gaining experience in the Technology sector | DevSecOps SG,BCS Member Groups,2020-12-16 00:00:00+00:00,65,2
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,_4aTBjf89rg,No DevSecOps? Plan B: Risk-Driven Application Testing | BCS London Central & North Branches,BCS Member Groups,2023-04-11 00:00:00+00:00,61,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,M2QImShE55c,DevOps & DevSecOps fundamentals | DevSecOps SG,BCS Member Groups,2024-01-02 00:00:00+00:00,56,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,BW6flUfZyHo,Panel 1: The DevOps Talent Crunch – Building & Retaining High-Performing Teams,Quantic India,2025-10-07 00:00:00+00:00,52,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,NAuSUzwsEKY,Starting the DevSecOps journey - DevSecOps SG,BCS Member Groups,2022-06-21 00:00:00+00:00,46,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,IeNrrXKal0w,Platform Engineering | DevSecOps SG,BCS Member Groups,2024-10-29 00:00:00+00:00,42,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,K8BfjJvkTBc,Will the real 'Shift Left' please stand up? Devsecops Specialist Group,BCS Member Groups,2024-03-04 00:00:00+00:00,36,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,Bur1euKu9xg,DevSecOps in the Age of Software Supply Chain Attacks - 24. April 2020,No Cabin Fever Today,2020-04-27 00:00:00+00:00,34,4
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,2t6beAamzto,"Threat Modelling in the Cloud: Tools, Frameworks and Live Demos | Devsecops specialist group",BCS Member Groups,2025-06-04 00:00:00+00:00,29,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,_cqcTlWWheg,"Observability in DevSecOps, Wider Than Three Pillars | DevSecOps SG",BCS Member Groups,2025-05-19 00:00:00+00:00,28,1
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,pe36YwI1gYk,Secure and Repeatable Deployments through Strong Secrets Management | Devsecops specialist group,BCS Member Groups,2023-09-29 00:00:00+00:00,27,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,Ng4m_PLoBTM,Automating the software supply chain to reduce application security risks |  DevSecOps SG,BCS Member Groups,2022-11-25 00:00:00+00:00,27,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,DoXeJY3ofZs,Software supply chain integrity | BCS DevSecOps specialist group,BCS Member Groups,2021-12-23 00:00:00+00:00,26,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,BeXoMObbC_c,The DevSecOps Journey: your fast track pass | DevSecOps SG,BCS Member Groups,2025-12-03 00:00:00+00:00,21,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,5O4FBmWO1t4,AGM + Establishing sustainable DevSecOps practices | DevSecOps,BCS Member Groups,2024-12-18 00:00:00+00:00,18,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,BCS Member Groups,2026-03-12 00:00:00+00:00,17,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,y5iCJjC0ghE,Modernising Greenpeace Technical Operations Delivery with Automation | DevSecOps SG,BCS Member Groups,2025-07-30 00:00:00+00:00,16,0
+2026-05-24 21:52:27.073454+00:00,BCS DevSecOps Group,LfQcf58mhUI,What is DevSecOps and Why it's Important to Adapt it Nowadays - Virtual Developers Conference 2020,Mauritius Software Craftsmanship Community,2021-02-06 00:00:00+00:00,16,0
+2026-05-24 22:06:17.171403+00:00,DevSecOps,5j_8A6CypHc,DevSecOps in 200 Seconds: A Mind-Blowing Technical Breakdown 🚀,Practical DevSecOps,2025-01-27 00:00:00+00:00,556,18
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,lwWR9QqrEnc,DevOps: The Future of Change Management | BCS Edinburgh branch,BCS Member Groups,2021-03-23 00:00:00+00:00,221,8
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,BaHtngVVPv0,Breaking AI: Exploiting AI-Generated Code | DevSecOps SG,BCS Member Groups,2024-05-29 00:00:00+00:00,200,4
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,e9VWiK25DgI,Secure System Architecture and Design | BCS ISSG and DevSecOps SG,BCS Member Groups,2024-09-27 00:00:00+00:00,125,4
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,XbLxDFGi0Ag,DevSecOps the OWASP Way | DevSecOps SG,BCS Member Groups,2025-03-13 00:00:00+00:00,123,4
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,8wfa0WTFoFc,"SPA-358 OAG, the new OWASP Application Gateway (Patrick Steger, Gian-Luca Frei, Zühlke, 1 Sep 2021)",BCS Member Groups,2021-09-01 00:00:00+00:00,118,2
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,9FDnXxZV3tI,Container and Kubernetes: Security is not an afterthought | BCS DevSecOps specialist group,BCS Member Groups,2021-11-02 00:00:00+00:00,108,1
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,JKUiQ5GssaA,What is Threat Modelling and how it supports DevSecOps processes | BCS DevSecOps specialist group,BCS Member Groups,2022-03-30 00:00:00+00:00,98,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,Xzwq_Ea4cvw,Scaled Agile Framework (SAFe) | BCS London West branch event,BCS Member Groups,2021-07-07 00:00:00+00:00,96,1
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,Mnp9fhrfg1s,Strategies for Threat Modelling - DevSecOps,BCS Member Groups,2023-04-25 00:00:00+00:00,93,1
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,wFxHcsPhC5E,Moving to the cloud securely with DevSecOps,BCS Member Groups,2023-02-02 00:00:00+00:00,77,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,AiJAv005ZJI,Gaining experience in the Technology sector | DevSecOps SG,BCS Member Groups,2020-12-16 00:00:00+00:00,65,2
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,_4aTBjf89rg,No DevSecOps? Plan B: Risk-Driven Application Testing | BCS London Central & North Branches,BCS Member Groups,2023-04-11 00:00:00+00:00,61,4
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,M2QImShE55c,DevOps & DevSecOps fundamentals | DevSecOps SG,BCS Member Groups,2024-01-02 00:00:00+00:00,56,1
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,NAuSUzwsEKY,Starting the DevSecOps journey - DevSecOps SG,BCS Member Groups,2022-06-21 00:00:00+00:00,46,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,IeNrrXKal0w,Platform Engineering | DevSecOps SG,BCS Member Groups,2024-10-29 00:00:00+00:00,42,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,K8BfjJvkTBc,Will the real 'Shift Left' please stand up? Devsecops Specialist Group,BCS Member Groups,2024-03-04 00:00:00+00:00,36,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,2t6beAamzto,"Threat Modelling in the Cloud: Tools, Frameworks and Live Demos | Devsecops specialist group",BCS Member Groups,2025-06-04 00:00:00+00:00,29,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,_cqcTlWWheg,"Observability in DevSecOps, Wider Than Three Pillars | DevSecOps SG",BCS Member Groups,2025-05-19 00:00:00+00:00,28,1
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,pe36YwI1gYk,Secure and Repeatable Deployments through Strong Secrets Management | Devsecops specialist group,BCS Member Groups,2023-09-29 00:00:00+00:00,27,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,Ng4m_PLoBTM,Automating the software supply chain to reduce application security risks |  DevSecOps SG,BCS Member Groups,2022-11-25 00:00:00+00:00,27,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,DoXeJY3ofZs,Software supply chain integrity | BCS DevSecOps specialist group,BCS Member Groups,2021-12-23 00:00:00+00:00,26,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,8EZLCKDn38k,Open source security event management | Devsecops specialist group,BCS Member Groups,2023-07-11 00:00:00+00:00,24,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,BeXoMObbC_c,The DevSecOps Journey: your fast track pass | DevSecOps SG,BCS Member Groups,2025-12-03 00:00:00+00:00,21,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,5O4FBmWO1t4,AGM + Establishing sustainable DevSecOps practices | DevSecOps,BCS Member Groups,2024-12-18 00:00:00+00:00,18,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,BCS Member Groups,2026-03-12 00:00:00+00:00,17,0
+2026-05-24 22:08:55.221577+00:00,BCS DevSecOps Group,y5iCJjC0ghE,Modernising Greenpeace Technical Operations Delivery with Automation | DevSecOps SG,BCS Member Groups,2025-07-30 00:00:00+00:00,16,0
+2026-05-24 22:15:57.830480+00:00,BCS,272fLnXWaZQ,Strategic Empathy - Rehumanising Project Governance | Project Management SG,BCS Member Groups,2026-03-12 00:00:00+00:00,195,2
+2026-05-24 22:15:57.830480+00:00,BCS,9Li9E88sxEI,From BA to Boardroom: How a Career in Tech Can Take You to the Top | BCS London Branches,BCS Member Groups,2026-04-24 00:00:00+00:00,100,3
+2026-05-24 22:15:57.830480+00:00,BCS,NaJJqo5dqew,Using AI to Streamline Work | BCS London Branches,BCS Member Groups,2026-04-09 00:00:00+00:00,68,1
+2026-05-24 22:15:57.830480+00:00,BCS,80ZYx5B_pmc,"Careers in Tech & Quality - Starting Out, Moving Forward | Software Testing SG (SIGIST)",BCS Member Groups,2026-03-13 00:00:00+00:00,49,1
+2026-05-24 22:15:57.830480+00:00,BCS,8eA9HdoIYUA,The Boutique Consultancy Blueprint: What You Need to Know,BCS Member Groups,2026-04-13 00:00:00+00:00,49,0
+2026-05-24 22:15:57.830480+00:00,BCS,NVbRAZy_mq8,Generative AI - Part 2 | Artificial Intelligence SG,BCS Member Groups,2026-04-30 00:00:00+00:00,48,0
+2026-05-24 22:15:57.830480+00:00,BCS,p8Mbcztr9iY,Use cases for AI in ITAM | SM-ITAM SG,BCS Member Groups,2026-04-23 00:00:00+00:00,44,4
+2026-05-24 22:15:57.830480+00:00,BCS,1WyLznRc8_E,Playwright MCP (Model Context Protocol) - an AI automation tool | BCS Software Practice Advancement,BCS Member Groups,2026-05-01 00:00:00+00:00,43,1
+2026-05-24 22:15:57.830480+00:00,BCS,QR3rvpB0VHw,AI in Business – From Initiative to Implementation | BCS London Branches,BCS Member Groups,2026-04-09 00:00:00+00:00,41,0
+2026-05-24 22:15:57.830480+00:00,BCS,arV6BpNagZc,Where is the value in data science? | Data Management SG,BCS Member Groups,2026-03-12 00:00:00+00:00,34,0
+2026-05-24 22:15:57.830480+00:00,BCS,B5R-9WFYa6A,Computing for Astronomy | Stoke-on-Trent and Staffordshire branch,BCS Member Groups,2026-03-13 00:00:00+00:00,33,0
+2026-05-24 22:15:57.830480+00:00,BCS,sNkkkubx4RE,The 2026 Cyber Threat Landscape | BCS Merseyside branch,BCS Member Groups,2026-03-13 00:00:00+00:00,31,0
+2026-05-24 22:15:57.830480+00:00,BCS,x0Duhd2JoPA,An Introduction to Operations Research with Google OR-Tools | SPA SG,BCS Member Groups,2026-04-22 00:00:00+00:00,30,0
+2026-05-24 22:15:57.830480+00:00,BCS,JyBZrttg8qI,Generative AI - Part 1 | Artificial Intelligence SG,BCS Member Groups,2026-04-30 00:00:00+00:00,27,0
+2026-05-24 22:15:57.830480+00:00,BCS,SETsmvyRBAQ,Code Smells Human-Written vs LLM Generated Programs | BCS Oxfordshire branch,BCS Member Groups,2026-05-21 00:00:00+00:00,26,0
+2026-05-24 22:15:57.830480+00:00,BCS,N0LK9LGqs5E,Shaping the Future of IT: An Evening with Daljit Rehal | Shropshire branch,BCS Member Groups,2026-03-13 00:00:00+00:00,26,0
+2026-05-24 22:15:57.830480+00:00,BCS,-oFdDr7WkR8,Futureproofing your degree: Skills and mindsets for Career Readiness | South Wales branch,BCS Member Groups,2026-03-13 00:00:00+00:00,25,1
+2026-05-24 22:15:57.830480+00:00,BCS,FJpXasit4LI,Do Data Assets Have Value? | BCS London Branches and BCS Data Management SG,BCS Member Groups,2026-05-21 00:00:00+00:00,25,0
+2026-05-24 22:15:57.830480+00:00,BCS,NO-nnI56otM,Lessons from Extreme Teams for Today’s Extreme Meetings by George Karseras,BCS Member Groups,2026-04-30 00:00:00+00:00,25,0
+2026-05-24 22:15:57.830480+00:00,BCS,yI5GUDk2lyY,"Digital exclusion in the UK, and what works to help fix the digital divide",BCS Member Groups,2026-04-17 00:00:00+00:00,25,0
+2026-05-24 22:15:57.830480+00:00,BCS,MY6kBg-lGLY,All About Rare Earths | BCS Oxfordshire branch,BCS Member Groups,2026-05-15 00:00:00+00:00,21,1
+2026-05-24 22:15:57.830480+00:00,BCS,3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,BCS Member Groups,2026-03-12 00:00:00+00:00,17,0
+2026-05-24 22:15:57.830480+00:00,BCS,9Od5wOccCF4,Cybersecurity Over Lunch - Real Talk from a Woman in Tech Leader | BCSWomen SG,BCS Member Groups,2026-03-12 00:00:00+00:00,12,0
+2026-05-24 22:15:57.830480+00:00,BCS,a7PbFyXbXJc,BCSWomen 25 Years Celebration,BCS Member Groups,2026-03-20 00:00:00+00:00,11,2
+2026-05-24 22:15:57.830480+00:00,BCS,Yo4mlaZbApE,Ethical and Legal Aspects of AI | Artificial Intelligence SG,BCS Member Groups,2026-05-13 00:00:00+00:00,10,0
+2026-05-24 22:15:57.830480+00:00,BCS,XASjAg79VpU,Technology Risk Management for Children’s Rights | IRMA SG,BCS Member Groups,2026-03-12 00:00:00+00:00,9,1
+2026-05-24 22:15:57.830480+00:00,BCS,uJQ2KNr67sM,Hyper local ITAD Operations - SOT6FC and Reboot IT For All | Stoke-on-Trent and Staffordshire branch,BCS Member Groups,2026-03-12 00:00:00+00:00,8,0
+2026-05-24 22:15:57.830480+00:00,BCS,VZcb9oRCcG0,"Release Governance: All about how, not what | SM-ITAM SG",BCS Member Groups,2026-04-23 00:00:00+00:00,7,0
+2026-05-24 22:15:57.830480+00:00,BCS,wbxOv5PJ26E,Business Change and how it relates to Professional Bodies | Business Change SG,BCS Member Groups,2026-03-13 00:00:00+00:00,7,0
+2026-05-24 22:15:57.830480+00:00,BCS,FKWsV5zkxwQ,Driving Change for Mental Health in Tech | South Yorkshire branch,BCS Member Groups,2026-03-12 00:00:00+00:00,3,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,272fLnXWaZQ,Strategic Empathy - Rehumanising Project Governance | Project Management SG,BCS Member Groups,2026-03-12 00:00:00+00:00,195,2
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,V_78ciCxgAQ,Deepfake Forensics: then Cybercrime Forensics SG AGM | Cybercrime Forensics SG,BCS Member Groups,2026-01-30 00:00:00+00:00,140,2
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,j8R1b8HZhwQ,"The Future of Cyber Attacks in AI Era | Beds, Bucks and Northants branch",BCS Member Groups,2026-02-10 00:00:00+00:00,109,2
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,9Li9E88sxEI,From BA to Boardroom: How a Career in Tech Can Take You to the Top | BCS London Branches,BCS Member Groups,2026-04-24 00:00:00+00:00,100,3
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,KUIZ2AkVJUA,Critical Thinking for Testers in the age of AI | Software Testing SG,BCS Member Groups,2026-01-26 00:00:00+00:00,91,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,7cBJXpV8LL4,"Convergent Tech - AI is an Ingredient, Not a Meal | BCS London Branches",BCS Member Groups,2026-02-24 00:00:00+00:00,82,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,jza1pDS8VCY,"AI Governance in Practice: Privacy, Vulnerability and Social Impact",BCS Member Groups,2026-01-21 00:00:00+00:00,81,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,yVG_Q_FKlfs,"Hybrid: Build Together - Public Hackathon Showcase by WDAI, UKAI & RepAI | PRIDE SG",BCS Member Groups,2026-02-10 00:00:00+00:00,70,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,ibp3ZcDpxqU,Appreciating Global Regulatory Requirements for Enterprise Blueprints | Enterprise Architecture SG,BCS Member Groups,2026-02-25 00:00:00+00:00,68,3
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,NaJJqo5dqew,Using AI to Streamline Work | BCS London Branches,BCS Member Groups,2026-04-09 00:00:00+00:00,68,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,iHzxgyAfo9c,The Stress Management Toolkit: Practical Hacks for Busy Consultants by Nikhil Desai,BCS Member Groups,2026-03-04 00:00:00+00:00,61,4
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,YLKodThURyk,OWASP Operational Technology (OT) Top10 Vulnerabilities | Cybercrime Forensics SG,BCS Member Groups,2026-01-14 00:00:00+00:00,50,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,80ZYx5B_pmc,"Careers in Tech & Quality - Starting Out, Moving Forward | Software Testing SG (SIGIST)",BCS Member Groups,2026-03-13 00:00:00+00:00,49,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,8eA9HdoIYUA,The Boutique Consultancy Blueprint: What You Need to Know,BCS Member Groups,2026-04-13 00:00:00+00:00,49,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,NVbRAZy_mq8,Generative AI - Part 2 | Artificial Intelligence SG,BCS Member Groups,2026-04-30 00:00:00+00:00,48,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,1WyLznRc8_E,Playwright MCP (Model Context Protocol) - an AI automation tool | BCS Software Practice Advancement,BCS Member Groups,2026-05-01 00:00:00+00:00,45,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,Ljj1x9-bsuk,Vibe Coding: Building Apps at the Speed of Imagination | Kent branch,BCS Member Groups,2026-01-26 00:00:00+00:00,45,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,p8Mbcztr9iY,Use cases for AI in ITAM | SM-ITAM SG,BCS Member Groups,2026-04-23 00:00:00+00:00,44,4
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,QITX5FUJRJc,Could European Businesses Really Replace US Technology? | BCS Oxfordshire branch,BCS Member Groups,2026-02-24 00:00:00+00:00,42,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,QR3rvpB0VHw,AI in Business – From Initiative to Implementation | BCS London Branches,BCS Member Groups,2026-04-09 00:00:00+00:00,41,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,GzhhXEZy80U,Resurrecting Old Systems For Fun (and Profit?) | Kent branch,BCS Member Groups,2026-01-30 00:00:00+00:00,38,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,5ZXRQjOxVvk,Managing data risks in use of AI | IRMA SG,BCS Member Groups,2026-01-19 00:00:00+00:00,37,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,arV6BpNagZc,Where is the value in data science? | Data Management SG,BCS Member Groups,2026-03-12 00:00:00+00:00,34,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,0fnlzah9zZQ,DOVE: Deliver Optimal Values Efficiently | Quality SG,BCS Member Groups,2026-01-19 00:00:00+00:00,33,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,B5R-9WFYa6A,Computing for Astronomy | Stoke-on-Trent and Staffordshire branch,BCS Member Groups,2026-03-13 00:00:00+00:00,33,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,sNkkkubx4RE,The 2026 Cyber Threat Landscape | BCS Merseyside branch,BCS Member Groups,2026-03-13 00:00:00+00:00,31,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,x0Duhd2JoPA,An Introduction to Operations Research with Google OR-Tools | SPA SG,BCS Member Groups,2026-04-22 00:00:00+00:00,30,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,JyBZrttg8qI,Generative AI - Part 1 | Artificial Intelligence SG,BCS Member Groups,2026-04-30 00:00:00+00:00,27,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,SETsmvyRBAQ,Code Smells Human-Written vs LLM Generated Programs | BCS Oxfordshire branch,BCS Member Groups,2026-05-21 00:00:00+00:00,26,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,N0LK9LGqs5E,Shaping the Future of IT: An Evening with Daljit Rehal | Shropshire branch,BCS Member Groups,2026-03-13 00:00:00+00:00,26,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,-oFdDr7WkR8,Futureproofing your degree: Skills and mindsets for Career Readiness | South Wales branch,BCS Member Groups,2026-03-13 00:00:00+00:00,25,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,FJpXasit4LI,Do Data Assets Have Value? | BCS London Branches and BCS Data Management SG,BCS Member Groups,2026-05-21 00:00:00+00:00,25,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,NO-nnI56otM,Lessons from Extreme Teams for Today’s Extreme Meetings by George Karseras,BCS Member Groups,2026-04-30 00:00:00+00:00,25,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,yI5GUDk2lyY,"Digital exclusion in the UK, and what works to help fix the digital divide",BCS Member Groups,2026-04-17 00:00:00+00:00,25,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,8uluBFvRWSQ,Fast tracking the digitisation of adult social care with MODS | Faculty of Health & Care,BCS Member Groups,2026-01-30 00:00:00+00:00,25,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,yw36PVAKDxo,Webinar: Presenting Reed Women In Tech Network | BCSWomen,BCS Member Groups,2026-01-26 00:00:00+00:00,22,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,FUptg4MqPWI,Harnessing Data for Sustainable Impact and BCS GreenIT SG AGM | Green IT SG,BCS Member Groups,2026-01-30 00:00:00+00:00,22,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,MY6kBg-lGLY,All About Rare Earths | BCS Oxfordshire branch,BCS Member Groups,2026-05-15 00:00:00+00:00,21,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,BCS Member Groups,2026-03-12 00:00:00+00:00,17,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,at7RIOF8ur0,"Webinar: BCSWomen Lovelace: Insights from Students, Academics & Industry Innovators | BCSWomen SG",BCS Member Groups,2026-01-30 00:00:00+00:00,15,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,Yo4mlaZbApE,Ethical and Legal Aspects of AI | Artificial Intelligence SG,BCS Member Groups,2026-05-13 00:00:00+00:00,13,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,9Od5wOccCF4,Cybersecurity Over Lunch - Real Talk from a Woman in Tech Leader | BCSWomen SG,BCS Member Groups,2026-03-12 00:00:00+00:00,12,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,a7PbFyXbXJc,BCSWomen 25 Years Celebration,BCS Member Groups,2026-03-20 00:00:00+00:00,11,2
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,XASjAg79VpU,Technology Risk Management for Children’s Rights | IRMA SG,BCS Member Groups,2026-03-12 00:00:00+00:00,9,1
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,uJQ2KNr67sM,Hyper local ITAD Operations - SOT6FC and Reboot IT For All | Stoke-on-Trent and Staffordshire branch,BCS Member Groups,2026-03-12 00:00:00+00:00,8,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,zO9td6iYXTM,Quality Management Training Scholarship by the Quality Management Institute | Quality SG,BCS Member Groups,2026-02-10 00:00:00+00:00,8,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,VZcb9oRCcG0,"Release Governance: All about how, not what | SM-ITAM SG",BCS Member Groups,2026-04-23 00:00:00+00:00,7,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,wbxOv5PJ26E,Business Change and how it relates to Professional Bodies | Business Change SG,BCS Member Groups,2026-03-13 00:00:00+00:00,7,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,8rjbJ30vsD8,Doing the right thing? Keeping IT equipment out of landfill | London South branch,BCS Member Groups,2026-01-14 00:00:00+00:00,4,0
+2026-05-25 12:24:40.379945+00:00,BCS DevSecOps Group,FKWsV5zkxwQ,Driving Change for Mental Health in Tech | South Yorkshire branch,BCS Member Groups,2026-03-12 00:00:00+00:00,3,0

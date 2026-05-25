@@ -1,0 +1,401 @@
+video_id,title,description,channel_title,channel_id,published_at,thumbnail_url,view_count,like_count,months_since_publish,estimated_views_per_month,tracked_views_growth_per_month
+oOTRqoUZsWM,USAF/Northrop Grumman: Lean-Agile Mindset & DevSecOps in a Multi-billion Dollar Defense System,"How do you achieve unprecedented communication between contractor, government, and stakeholders in a large acquisition?
+
+Northrop Grumman and US Air Force agile transformation leads will describe how they have worked together to leverage SAFe and DevSecOps to scale agile practices to refine requirements, enable customer and stakeholder collaboration, and facilitate technical planning for the Ground Based Strategic Deterrent (GBSD) intercontinental ballistic missile (ICBM) modernization program. The development occurs under a multi-billion dollar contract involving hundreds of companies and over 10,000 people across the US.
+
+GBSD’s 50-year mission is vital to our nation’s security and adoption of a Lean-Agile mindset is essential to meeting GBSD’s schedule and capability requirements.
+
+Presented at the 2021 Global SAFe Summit, October 2021 by:
+David Gellen, Agile Transformation Lead for GBSD /Northrop Grumman
+Micheal Burkhart, Lead for Agile Transformation of the Ground-Based Strategic Deterrent program /U.S. Air Force","Scaled Agile, Inc.",UC-n4Mb-Bu5Pgl0z5L1jyhSQ,2021-11-02 00:00:00+00:00,https://i.ytimg.com/vi/oOTRqoUZsWM/maxresdefault.jpg,3559,0,54.6694045174538,65.1,
+y6ZSgiBHLXc,What is DevOps? What is DevSecOps? - live streamed 20-Nov,"#demodays #GitHub
+
+1:20 - Welcome everyone!
+11:39 - Let's talk DevOps and DevSecOps
+
+DevSecOps, shifting left, and GitOps: you’ve probably heard all of these terms recently, but you might not be sure about what they mean. The reality is that these practices share a lot of the same principles—to reduce the time developers need to spend on security, while achieving better outcomes. And who doesn’t want that? Let’s clear up some confusion and deconstruct what these terms mean, and how they apply to your security and development teams.
+
+Thomas Hughes, Senior DevOps Engineer, talks through key DevOps concepts and how it isn't just about tooling.
+
+Resources:
+Resource Round-up: https://github.com/learn/devops/#resources
+Myths and Misconceptions: https://github.blog/2020-10-07-devops-definition/
+Guide to DevSecOps: https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/
+
+Contact us: https://enterprise.github.com/contact",GitHub,UC7c3Kb6jYCRj4JOHHZTxKsQ,2020-11-20 00:00:00+00:00,https://i.ytimg.com/vi/y6ZSgiBHLXc/maxresdefault.jpg,3462,65,66.06981519507187,52.4,
+PZ4anzh8tZI,🚨 How difficult is it to put threat models into practice? | @Akeyless,"📣 How has threat modeling evolved and how can security help make it easier for developers to implement that practically into their code?
+
+🔴 In this talk hosted by @Akeyless, Maran Gunasekaran, Principal Security Consultant at Practical DevSecOps gives us a rundown of what threat modeling used to mean and how developers can translate threat models into actual threat modeling as code. 
+
+📊 He also offers real-world examples of how security and developers align on threat modeling when shipping code.
+
+✅ Watch the full podcast here: https://www.youtube.com/watch?v=cZPnFwANlCY
+
+🛑 If you liked this video and want to see more from Practical DevSecOps, subscribe to our channel: https://www.youtube.com/c/PracticalDevSecOps
+
+🤔 To learn more, visit our website and explore our courses: https://www.practical-devsecops.com/courses-and-certifications-2/ 
+
+📌About Practical DevSecOps:
+Practical DevSecOps ​(a Hysn Technologies Inc company) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. The certifications are achieved after rigorous tests(12-24 hour exams) of skill and are considered the most valuable in the information security field.
+ 
+For more information, visit: www.practical-devsecops.com or follow us on social media: 
+👉🏻 Twitter: @PDevsecops 
+👉🏻 LinkedIn: https://www.linkedin.com/company/14504770/
+👉🏻 Facebook: https://www.facebook.com/pdevsecops",Practical DevSecOps,UCsmwhUbG2kR8ruSh0ijRE8w,2022-09-21 00:00:00+00:00,https://i.ytimg.com/vi/PZ4anzh8tZI/maxresdefault.jpg,3207,10,44.05749486652977,72.79,
+1uwusqnt1kk,📣 Evolution of Threat Modeling | Shift from DevOps to DevSecOps | @Akeyless,"📣 How has threat modeling evolved and how can security help make it easier for developers to implement that practically into their code?
+
+🔴 In this talk hosted by @Akeyless, Maran Gunasekaran, Principal Security Consultant at Practical DevSecOps gives us a rundown of what threat modeling used to mean and how developers can translate threat models into actual threat modeling as code. 
+
+📊 He also offers real-world examples of how security and developers align on threat modeling when shipping code.
+
+✅ Watch the full podcast here: https://www.youtube.com/watch?v=cZPnFwANlCY
+
+🛑 If you liked this video and want to see more from Practical DevSecOps, subscribe to our channel: https://www.youtube.com/c/PracticalDevSecOps
+
+🤔 To learn more, visit our website and explore our courses: https://www.practical-devsecops.com/courses-and-certifications-2/ 
+
+📌About Practical DevSecOps:
+Practical DevSecOps ​(a Hysn Technologies Inc company) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. The certifications are achieved after rigorous tests(12-24 hour exams) of skill and are considered the most valuable in the information security field.
+ 
+For more information, visit: www.practical-devsecops.com or follow us on social media: 
+👉🏻 Twitter: @PDevsecops 
+👉🏻 LinkedIn: https://www.linkedin.com/company/14504770/
+👉🏻 Facebook: https://www.facebook.com/pdevsecops",Practical DevSecOps,UCsmwhUbG2kR8ruSh0ijRE8w,2022-09-19 00:00:00+00:00,https://i.ytimg.com/vi/1uwusqnt1kk/maxresdefault.jpg,2403,20,44.12320328542094,54.46,0.0
+S5YK0IHUtZo,🔴 What is Threat Modeling? | Threat Modeling With Code | #DevSecOps LIVE 📌,"In this DevSecOps Live event, we explore the advantages and limitations of ""Threat Modeling As Code"" and how it has been expressed as Threat Modeling From/In/With Code - focusing on a Threat Modeling With Code tool, pyTM.
+
+📚 The talk covers:
+✅ New approaches to Threat Modeling
+✅ Learning to Threat Model with code
+✅ Advantages of writing Threat Model with code
+
+Link to the full DevSecOps LIVE: https://www.youtube.com/watch?v=b5460qWCPqg 
+
+🎤 Speakers: Izar Tarandach
+
+About Practical DevSecOps
+Practical DevSecOps offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. The certifications are achieved after rigorous tests(12-24 hour exams) of skill and are considered the most valuable in the information security field.
+
+00:00 What is Threat Modeling?
+1:35 Artifacts to Threat Modeling
+2:44 Key Takeaways",Practical DevSecOps,UCsmwhUbG2kR8ruSh0ijRE8w,2022-06-29 00:00:00+00:00,https://i.ytimg.com/vi/S5YK0IHUtZo/maxresdefault.jpg,1756,26,46.81724845995893,37.51,
+JBbVTmrZ45E,Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You... Ian Coldwater & Brad Geesaman,"Don’t miss out! Join us at our next event: KubeCon + CloudNativeCon Europe 2022 in Valencia, Spain from May 17-20. Learn more at https://kubecon.io The conference features presentations from developers and end users of Kubernetes, Prometheus, Envoy, and all of the other CNCF-hosted projects.
+
+Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You Pause - Ian Coldwater, Twilio & Brad Geesaman, Aqua Security
+
+Think you know Kubernetes? Think again. Kubernetes is full of uncommon knowledge and doesn’t always behave the way we assume, containing unexpected gotchas and surprising behaviors that’ll make you say, “how come nobody told me this earlier?” In this talk, Ian Coldwater and Brad Geesaman will shine a light on hidden secrets in Kubernetes, demonstrating scary science such as pods in non-existent namespaces, bypassing network policies via DNS, fun with capable sidecar containers, and one weird trick attackers don’t want you to know. Defenders hate it! Don’t build your next threat model before watching this! Attendees will learn how not to get caught off guard by learning what to watch out for and how to better secure their systems. You won’t believe what happens next.",CNCF [Cloud Native Computing Foundation],UCvqbFHwN-nwalWPjPUKpvTA,2021-10-29 00:00:00+00:00,https://i.ytimg.com/vi/JBbVTmrZ45E/maxresdefault.jpg,1719,46,54.80082135523614,31.37,
+2gGbJa_pGbM,WEBINAR: Key criteria for evaluating DevSecOps tools,"Join Pluralsight’s Developer Evangelist Jeremy Morgan and Gigaom’s Jon Collins as they discuss the key criteria for evaluating DevSecOps tools. They’ll discuss DevSecOps from a practical perspective, new findings about DevSecOps and how DevSecOps tooling delivers value by building on software and architecture vulnerability scanning, application and infrastructure hardening and other well-established areas of IT security. 
+
+They’ll also discuss what decision makers should look for as they address the need to protect applications, data, services and more— without losing their ability to remain innovative and produce new software solutions.
+
+Visit us at:
+Facebook: https://www.facebook.com/pluralsight
+Twitter: https://twitter.com/pluralsight
+LinkedIn: https://www.linkedin.com/company/pluralsight
+Instagram: http://instagram.com/pluralsight
+Blog: https://www.pluralsight.com/blog",Pluralsight,UCbrXRQHV4TOU4Pqzw325Z1A,2021-11-03 00:00:00+00:00,https://i.ytimg.com/vi/2gGbJa_pGbM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGEUgPSh_MA8=&rs=AOn4CLAb49dxw18s5YX8dIDTSJ-0YAYTeA,1150,0,54.63655030800821,21.05,
+7Sbqe6aoWYM,Quick Look: What Could Possibly Go Wrong? Plain Language Threat Modeling in DevSecOps,"Presenter: Alyssa Miller, Business Information Security Officer (BISO), S&P Global Ratings
+
+This Quick Look provides a short preview of the full session at RSA Conference 2022, taking place from June 6-9, 2022. In this session, a co-author of the Threat Modeling Manifesto will show how capturing threat information in plain-language in the user-story breaks through roadblocks. A flow that removes security gates and integrates threat information in all phases of the lifecycle will be presented. Stop trying to predict attacker behaviors and instead focus on identifying critical assets and defenses.
+
+https://www.rsaconference.com/USA/agenda/session/What%20Could%20Possibly%20Go%20Wrong%20Plain%20Language%20Threat%20Modeling%20in%20DevSecOps",RSAC Cybersecurity,UCYzwGkfOqrevO-4TuTjPLwQ,2022-04-08 00:00:00+00:00,https://i.ytimg.com/vi/7Sbqe6aoWYM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gJCgxMA8=&rs=AOn4CLAFGH4q6U1g71W-xLmlnHx7818QtA,610,14,49.51129363449692,12.32,
+FzoQcUCVvuM,Applying DevSecOps to Kubernetes,"Security is a vital part of any development pipeline, but as we move towards dynamic Cloud DevOps, it’s becoming left behind. With Kubernetes having worrying security flaws, we talked to Thomas Fricke to learn more about how to keep our DevOps setup secure.",Platform Engineering,UCKjVI0LawDxHaXSBMBOK1tA,2022-01-26 00:00:00+00:00,https://i.ytimg.com/vi/FzoQcUCVvuM/sddefault.jpg,450,8,51.87679671457906,8.67,
+lwWR9QqrEnc,DevOps: The Future of Change Management | BCS Edinburgh branch,"DevOps has transformed the way we deliver software to our customers. But for teams in regulated industries, manual change management processes still put a delay on releases.
+For these teams, automating change management as part of the DevOps process is the next frontier. This talk will show how and why to automate change controls and release documentation with security and traceability built in.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2021-03-23 00:00:00+00:00,https://i.ytimg.com/vi/lwWR9QqrEnc/maxresdefault.jpg,221,8,62.02874743326489,3.56,
+RhpZkmE-lOs,"OWASP Cambridge & BCS Cybercrime SG “Adding SAST to CI/CD, Without Losing Any Friends” - Tanya Janca","TanyaJanca, also known asSheHacksPurple, Head of Education and Community at Semgrep - “Adding SAST to CI/CD, Without Losing Any Friends”
+
+Bio: Tanya Janca, Head of Education and Community at Semgrep
+
+Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the Head of Education and Community at Semgrep, sharing content and training that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty-five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker & active blogger, and has delivered hundreds of talks on 6 continents. She values diversity, inclusion, and kindness, which shines through in her countless initiatives.
+
+Advisor: Nord VPN, Aiya Corp
+Faculty: IANs Research
+Founder: We Hack Purple, OWASP DevSlop, #CyberMentoringMonday, WoSEC
+
+Abstract : “Adding SAST to CI/CD, Without Losing Any Friends”
+
+Everyone wants to put tests into the release pipeline, but no one wants to wait hours for them to finish. In this learning lab we will discuss multiple options for adding static application security testing (SAST) to your CI/CD, in ways that won’t compromise speed or results, such as learning which results can be safely ignored, writing your own rules, company-specific checks, scanning PRs instead of commits, splitting blocking scans versus deep audit scans, etc. We will also cover ways to continuously find vulnerabilities.",OWASP Cambridge,UCfL6EPBfpfaG8iSwl34TvBg,2023-10-04 00:00:00+00:00,https://i.ytimg.com/vi/RhpZkmE-lOs/maxresdefault.jpg,206,8,31.638603696098563,6.51,
+BaHtngVVPv0,Breaking AI: Exploiting AI-Generated Code | DevSecOps SG,"In the span of just one hour, Sonya will build a demo app using GitHub Copilot and ChatGPT, and live hack the results, showing how the generated code can be exploited.
+
+In this session, Sonya will:
+• Present an overview of AI in software development and common AI security risks;
+• Use GenAI tools to build a coffee shop demo app and exploit AI-generated vulnerabilities, including SQL injection, cross-site scripting, directory traversal and more;
+• Give you some effective strategies to mitigate and fix the AI-generated vulnerabilities.
+
+About the speaker: 
+Sonya Moisset
+
+Staff Security Advocate @ Snyk Speaker Bio. Sonya is a Staff Security Advocate at Snyk and a lifelong traveller passionate about DevSecOps, Cybersecurity, and AI.
+She’s a public speaker on the world tech scene. She is also a mentor for women in tech, a top writer for FreeCodeCamp publications, and an active member of the tech community in the UK.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-05-29 00:00:00+00:00,https://i.ytimg.com/vi/BaHtngVVPv0/maxresdefault.jpg,200,4,23.81930184804928,8.4,0.0
+m6Ij1SmuC80,OpenShift Commons Briefing Why DevSecOps is Critical for Kubernetes Kirsten Newcomer (RedHat),"OpenShift Commons Briefing
+Why DevSecOps is Critical for Kubernetes
+Kirsten Newcomer (RedHat)
+Hosted by Diane Mueller (Red Hat)
+2020-05-13",OpenShift,UCZKMj3YI0wP-kq4QYpaKdEA,2020-05-25 00:00:00+00:00,https://i.ytimg.com/vi/m6Ij1SmuC80/maxresdefault.jpg,190,1,71.95071868583162,2.64,
+orHnqX9kmos,CISO Developed DevSecOps Supply Chain Best Practices,"This briefing is based on the findings of a cross-sector task force of CISOs, and staff led by Rockwell Automation, a leading developer of commercial software. The task force was organized in response to the software supply chain attacks, like SolarWinds and Kaseya, which have devastated entire commercial ecosystems.
+
+The task force recommended five practices -- managing code integrity and employing non-repudiation methods, among them – that have the greatest impact on reducing risks the risks of becoming a victim or carrier of malware from software acquired or developed. Task force members also cited commercial tools they used to support these practices, such as insider threat code review and code signing solutions.
+
+Please join members of the Task Force as they share key insights into protecting the integrity of the DevSecOps supply chain.
+
+Speaker:
+
+• Andres Andreu, Senior Vice President, Cybersecurity, 2U",Cyber Risk Collaborative - A CRA Resource,UCmkAstE4xRzHeQoqjcsGdSQ,2022-02-17 00:00:00+00:00,https://i.ytimg.com/vi/orHnqX9kmos/sddefault.jpg,143,3,51.15400410677618,2.8,
+nDQP-kIbOqM,AppSec is Dead  Long Live DevSecOps!   Matias Madou,"-
+
+Managed by the OWASP® Foundation
+https://owasp.org/",OWASP Foundation,UCe8j61ABYDuPTdtjItD2veA,2021-11-04 00:00:00+00:00,https://i.ytimg.com/vi/nDQP-kIbOqM/maxresdefault.jpg,137,4,54.60369609856263,2.51,
+7cCuftPSIU0,The State of DevSecOps: Application Security,"The need to shift security left in the application development life cycle has become a critical issue in a growing number of organizations, as traditional application security testing can’t keep pace with the speed and velocity of application development. AppSec is finally evolving from a point-in-time process in production to an early and continuous step in the DevOps toolchain, giving rise to applications that are secure from ideation to production.
+
+In this webinar, we’ll look at the state of DevSecOps from the perspective of application security, including some of the trends and best practices organizations need to know.",Techstrong TV,UC-zcE077X98oTEDPwKkDQxQ,2021-11-04 00:00:00+00:00,https://i.ytimg.com/vi/7cCuftPSIU0/maxresdefault.jpg,135,1,54.60369609856263,2.47,
+0fRYNaeGW_k,Tanzu Talk: What is DevSecOps? Part One: A Secure Software Supply Chain,"Read about the other two parts, and more details here: https://tanzu.vmware.com/content/blog/devops-vs-devsecops?utm_campaign=devrel&utm_source=cote&utm_content=VideoSeries01_SSC
+
+I’ve been trying to figure out what exactly the Sec in DevSecOps is for a couple years no, I think I’ve got something. Three things in fact. Keep in mind that DevSecOps isn’t all of security, it’s just a small subset that focuses on the software you write and run.
+
+Anyhow, here’s the first.
+
+A “secure software supply chain.” That’s a fancy word for trusting and validating the code goes into your apps, the builds. This is code your write, other services you use, and nowadays external services you might rely on. Not only that, but the tools that you and your developers use to put together the apps. Source control, collaboration, and project management tools: everything is a target!
+
+To figure out what to do here, chart out every single activity that happens from idea to coding to a person using that feature. What are you doing to secure each step? And pay close attention to the arrows in between the boxes, that’s where a lot gets hidden.
+
+Once you’ve verified this, you’ll need to document it and make sure it obeys the policies you have in place. Most all organizations have their own security policy and also external policy, such as laws and regulations, they need to follow. You’ve got to document it!
+
+There’s more to it, or course. To read what I think DevSecOps, check out my write-up, and look for the other two tiny videos on DevSecOps: https://tanzu.vmware.com/content/blog/devops-vs-devsecops?utm_campaign=devrel&utm_source=cote&utm_content=VideoSeries01_SSC",VMware Tanzu,UCzd8R3vkpllD4CJn_5g5sKg,2022-05-24 00:00:00+00:00,https://i.ytimg.com/vi/0fRYNaeGW_k/maxresdefault.jpg,127,1,48.0,2.65,
+rtw2HKx-xXg,Episode 3: DevSecOps Coffee Break Series | Securing Your Software Supply Chain,"Learn how you can protect your software development lifecycle (SDLC) from supply chain attacks, and ensure the software you deliver to your employees and your customers is safe.
+
+This webinar series consists of five 15-20 minute sessions. They’re fast, effective and best of all, they’re on the house! Each session covers a key security, compliance or DevSecOps use case. JFrog Xray is a software composition analysis (SCA) solution that scans your open source software (OSS) dependencies for security vulnerabilities and license compliance issues. It integrates natively with JFrog Artifactory and uses deep recursive scanning to scan repositories, build packages, releases and container images. Gain confidence in your software releases with JFrog Xray.",JFrog,UCh2hNg76zo3d1qQqTWIQxDg,2021-12-02 00:00:00+00:00,https://i.ytimg.com/vi/rtw2HKx-xXg/maxresdefault.jpg,126,2,53.68377823408624,2.35,
+e9VWiK25DgI,Secure System Architecture and Design | BCS ISSG and DevSecOps SG,"There has been a recent UK government focus on Secure by Design, with the development of mandatory principles and best practice guidance on the activities for use in delivery. To enable secure-by-design practices to scale, there is also a need for architectural thinking techniques and artefacts to enable consistent architectural decisions and clear communication. For skilled and experienced security professionals, there is a need to recognize their value to the industry.
+The session will:
+• Discuss the foundational design, architecture and engineering concepts
+• Provide an overview of architectural thinking for secure design
+• Provide an overview (goals, components, challenges) the UK Government
+• Show how security professionals with Secure System Architecture and Design experience can receive recognition
+This event is for members of the BCS ISSG and DevSecOps interest groups who are security practitioners in the UK.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-09-27 00:00:00+00:00,https://i.ytimg.com/vi/e9VWiK25DgI/maxresdefault.jpg,125,4,19.84394250513347,6.3,0.0
+XbLxDFGi0Ag,DevSecOps the OWASP Way | DevSecOps SG,"Synopsis:
+In this talk, you'll discover how OWASP's free and open-source projects go beyond the well-known OWASP Top 10, offering powerful tools and resources to help organisations build robust DevSecOps practices and comprehensive application security programs. From requirements gathering and threat modelling to vulnerability scanning, security testing, code review, vulnerability management, best practices implementation, maturity assessments, and developer training, you'll gain insights into leveraging OWASP to enhance security at every stage of DevSecOps.
+About the speaker, Sam Stepanyan:
+Sam Stepanyan is an OWASP Global Board member and an OWASP London Chapter Leader, and an Independent Application Security Consultant and Security Architect with over 20 years of experience in the IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure Software Development Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject Matter Expert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master's degree in Software Engineering and a CISSP certification.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2025-03-13 00:00:00+00:00,https://i.ytimg.com/vi/XbLxDFGi0Ag/maxresdefault.jpg,123,4,14.35728952772074,8.57,
+8wfa0WTFoFc,"SPA-358 OAG, the new OWASP Application Gateway (Patrick Steger, Gian-Luca Frei, Zühlke, 1 Sep 2021)","SYNOPSIS
+
+Having many services exposed to the internet and letting them properly handle login and authentication is a non-trivial task for developers. Add basic security features like CSRF-prevention to this and you have a handful of work to do.
+
+Enter OWASP Application Gateway (OAG). OAG acts as a reverse proxy for you and is able to handle OpenID Connect. It provides a central and controlled way to secure your application services.
+
+In this talk the OWASP Application Gateway project leads will introduce you to OAG, explain its main features as well demo out-of-the-box usage and customization by integrating it in your own SpringBoot project.
+
+SPEAKER BIOGRAPHIES
+
+Gian-Luca Frei is the initiator and leader of the OWASP Application Gateway project. Besides his open-source contributions, he is a security engineer at Zühlke in Bern. He has in-depth experience with systems with the highest security standards, such as e-banking portals and inter-banking payment protocols. In addition to his professional engagements, Gian-Luca has done research on modern cryptographic protocols for which he has received the ISSS Excellence Award 2019.
+
+Padi Steger loves application security and software development. After more than 20 years in the industry he appreciates every opportunity to get his hands dirty. With OWASP Application Gateway he combines coding and security in what he thinks a pleasant way. He is OWASP Switzerland Chapter Lead and co-project lead of the OWASP Application Gateway. In his professional live he works as a Principal Consultant at Zühlke Engineering in Zürich for selected clients. He is CISSP (certified information systems security professional) und CCSP (certified cloud security professional).",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2021-09-01 00:00:00+00:00,https://i.ytimg.com/vi/8wfa0WTFoFc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgXig-MA8=&rs=AOn4CLCksKFMssub41ESfZDmj3V3JqKNNg,118,2,56.70636550308008,2.08,0.0
+9FDnXxZV3tI,Container and Kubernetes: Security is not an afterthought | BCS DevSecOps specialist group,"Please join us as we look at the world of containers, Kubernetes (K8s) and the challenges of developing, deploying and managing secure applications in this environment.
+The meeting will begin with an introduction to containers then explain the role of Kubernetes. Having set the scene, the focus will move onto some of the common security challenges.
+Matt will explain some strategies for securing containerised applications at the various stages of a DevSecOps pipeline.
+Matt will conclude by explaining some best practices for addressing run-time security concerns for containerised applications and Kubernetes environments.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2021-11-02 00:00:00+00:00,https://i.ytimg.com/vi/9FDnXxZV3tI/maxresdefault.jpg,108,1,54.6694045174538,1.98,0.0
+IibSxFhEAhc,Tech Weeklies - Transition from DevOps to DevSecOps through Threat Modelling - Bruno Almeida,"DevOps culture is today a reality for many engineering teams. Yet, security practices are still unknown to many. Where to start? How can security be included in our day to day instead of “added” later? A Threat Modelling process is a proven and effective way that can help you transition to DevSecOps.
+
+Presenter: Bruno Almeida",Futurice,UCYsID6sp60d9tgMCvnDu7Jg,2019-06-17 00:00:00+00:00,https://i.ytimg.com/vi/IibSxFhEAhc/maxresdefault.jpg,106,0,83.21971252566735,1.27,
+JKUiQ5GssaA,What is Threat Modelling and how it supports DevSecOps processes | BCS DevSecOps specialist group,"This meeting will provide a practical introduction to the topic of Threat Modelling, explaining the key elements of this practice, some of the techniques and how its use can help support the concept of ""shift left"". Identifying potential threats and risks is an essential consideration to any development project and growing in its importance, to continue to retain the trust of the various stakeholders for a modern application.
+Approaches to threat modelling techniques have existed for some time, but the need to identify and prioritise such issues quickly and effectively is even more important with the increasing use of rapid development processes and automation.
+This event will provide an introduction to the topic and then demonstrate through example, how the techniques of threat modelling can be used to alongside other common development and automation technology.
+Julian and Arnaud will explain how you can learn these techniques yourself by making use of a free community edition of the IriusRisk software.
+There will be plenty of time for questions to allow you to understand how to make use of these important techniques.
+Attendance can be in person or remotely via Zoom.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2022-03-30 00:00:00+00:00,https://i.ytimg.com/vi/JKUiQ5GssaA/maxresdefault.jpg,98,0,49.80698151950719,1.97,0.0
+Xzwq_Ea4cvw,Scaled Agile Framework (SAFe) | BCS London West branch event,"SAFe for Lean Enterprises is a knowledge base of proven, integrated principles, practices, and competencies for Lean, Agile, and DevOps. The goal of a Lean enterprise is to become a thriving digital age business that delivers competitive systems and solutions to its customers in the shortest sustainable lead time.
+The Scaled Agile Framework applies the power of Agile, along with the contemporary knowledge found in systems thinking and Lean product development to help businesses address the significant challenges of developing and delivering enterprise-class technology-based solutions with high quality and fast time-to-market. It is an online knowledge base of proven success patterns for achieving business agility.
+Gaurav will be sharing his knowledge, skills and experience as SAFe specialist.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2021-07-07 00:00:00+00:00,https://i.ytimg.com/vi/Xzwq_Ea4cvw/maxresdefault.jpg,96,1,58.54620123203286,1.64,
+rSeKtGOgwKg,DevSecOps: Pre-Empting Software Supply Chain Attacks | Accolite Digital Connect,"With a plethora of cyber-attacks on the rise, the software supply chain has become one of the most critical aspects in securing organizations from a massive breach. In the latest edition of Accolite Digital Connect, our experts Dharaninath Doppalapudi and Dhruv Gupta will speak on how to make DevSecOps a reality and stay one step ahead of all the new age attacks. 
+
+ #AccoliteDigital #AccoliteDigitalConnect #DevSecOps #cybersecurity #LinkedInLive #techtalks #AccoliteInsights #Webinar",Bounteous x Accolite,UCRAo0YZwP0vLajC2HRH1p7g,2022-01-14 00:00:00+00:00,https://i.ytimg.com/vi/rSeKtGOgwKg/maxresdefault.jpg,94,3,52.271047227926076,1.8,
+Mnp9fhrfg1s,Strategies for Threat Modelling - DevSecOps,"This will include:
+• The role of threat modelling in the software development lifecycle and how it supports other DevSecOps processes
+• Some common approaches to threat modelling
+• Tools and techniques that can help with threat modelling
+• How to encourage and support the use of a ""threat modelling mindset""",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2023-04-25 00:00:00+00:00,https://i.ytimg.com/vi/Mnp9fhrfg1s/maxresdefault.jpg,93,1,36.96098562628337,2.52,0.0
+wFxHcsPhC5E,Moving to the cloud securely with DevSecOps,"Moving to the Cloud Securely with DevSecOps
+Cloud technologies can bring great advantages from commercial savings to resilience, but these benefits can come at a cost if we aren't careful. With products, services, and projects being pushed to the Cloud efforts must be made to use Cloud carefully and in the correct way. From lifting-and-shifting to using Cloud-native resources, we'll talk about:
+• DevSecOps - how it is, and how it should be
+• Go, Move, Shift - Dealing with project pressures
+• Can we move at speed and stay secure?
+• Once I'm there, how can I stay safe?",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2023-02-02 00:00:00+00:00,https://i.ytimg.com/vi/wFxHcsPhC5E/maxresdefault.jpg,77,0,39.65503080082136,1.94,0.0
+7ubWajfdr8w,"Building Trusted Software Supply Chains a DevSecOps Journey - Henri van den Bulk, VMware","Building Trusted Software Supply Chains a DevSecOps Journey - Henri van den Bulk, VMware
+
+Physical supply chains have been able to achieve a level of trust, thing how your medication gets to the pharmacists. So why is it in the software industry we still have challenges in building trust? In this session, we will explore what makes up a software supply chain, and concerns that need to be addressed to deliver highly valuable, trusted software. We'll take you through a DevSecOps journey. 
+
+For more info about LF Energy, which provides a neutral, collaborative community to build the shared digital investments that will transform the world’s relationship to energy, see: https://www.lfenergy.org/",LF Energy,UCW2V5Sj6cme8na9BkTqfoJA,2021-04-21 00:00:00+00:00,https://i.ytimg.com/vi/7ubWajfdr8w/maxresdefault.jpg,73,2,61.07597535934291,1.2,
+c6lNde6zeMY,Defending Software Supply Chain Attacks with Kubernetes and DevSecOps,"According to many security analysts, in 2022, the number of software supply chain attacks is expected to quadruple versus this year’s total. Recent high-profile breaches like SolarWinds, Codecov, Kaseya and Microsoft Exchange Server highlight both the reach and the gravity of these attacks.
+
+Meanwhile, the use of Kubernetes as an orchestrator grew 50% from last year, yet nearly half of organizations say they have delayed moving an application into production due to security concerns.
+
+In this webinar, we will discuss the considerations, limitations and DevSecOps best practices when building out an automation strategy for securing K8s workloads.",Techstrong TV,UC-zcE077X98oTEDPwKkDQxQ,2021-11-15 00:00:00+00:00,https://i.ytimg.com/vi/c6lNde6zeMY/maxresdefault.jpg,69,1,54.24229979466119,1.27,
+AiJAv005ZJI,Gaining experience in the Technology sector | DevSecOps SG,"The agenda for the AGM will be:
+Apologies for Absence
+Minutes of the AGM held 22 Oct 19
+Matters arising from the minutes
+Chairman’s Report
+Treasurer’s Report
+Election of Committee
+Any other business
+Following the AGM, Umar Khan will talk on work experience.
+
+Synopsis
+Why young people should undertake work experience as well as the benefits to technological firms for hiring work experience candidates.
+
+Our events are for adults aged 16 years and over.
+
+This event is brought to you by: DevSecOps specialist group",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2020-12-16 00:00:00+00:00,https://i.ytimg.com/vi/AiJAv005ZJI/maxresdefault.jpg,65,2,65.21560574948666,1.0,
+_4aTBjf89rg,No DevSecOps? Plan B: Risk-Driven Application Testing | BCS London Central & North Branches,"Speaker:
+Richard Hollis - CEO of Risk Crew
+
+Synopsis:
+There are two key facts to understanding today’s threat landscape: First, 84% of all cyber-attacks occur at the application level. Second, the Open Web Application Security Project® (OWASP) list of the top 10 (application security vulnerabilities) has not changed by more than 30% in the last 15 years. Simply stated, year after year, breaches continue to rise because we neglect to incorporate security into the development of our applications.
+
+Development, Security, & Operations (DevSecOps) is the practice of implementing best security practices early and throughout the application’s development life cycle. It should involve practices like segmenting developers, scanning repositories for security vulnerabilities, conducting continuous monitoring, static code analysis and secure code reviews. Unfortunately, very few organisations have the tools, expertise or resources to implement these best practices and the market rewards speed over security. At best, we subject these insecure applications to boilerplate security penetration tests that do not address design and deployment-specific vulnerabilities and attack surfaces.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2023-04-11 00:00:00+00:00,https://i.ytimg.com/vi/_4aTBjf89rg/maxresdefault.jpg,61,4,37.42094455852156,1.63,0.0
+M2QImShE55c,DevOps & DevSecOps fundamentals | DevSecOps SG,"This talk aims to provide attendees with an understanding of what existed before DevOps, why it emerged as a methodology and the key foundational principles from a people, process and technology perspective.
+It then goes on to describe how and why DevSecOps came to prominence, the myriad of benefits resulting from its adoption, common pitfalls and the ways software security testing might be positioned as part of a DevSecOps toolchain.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-01-02 00:00:00+00:00,https://i.ytimg.com/vi/M2QImShE55c/maxresdefault.jpg,56,1,28.681724845995895,1.95,0.0
+BW6flUfZyHo,Panel 1: The DevOps Talent Crunch – Building & Retaining High-Performing Teams,"In this panel, industry leaders discuss one of today’s biggest challenges — finding, nurturing, and retaining top DevOps talent. From skill gaps to workplace culture and automation, explore what it takes to build resilient, high-performing engineering teams in a competitive tech landscape
+===========================
+Expert Moderator:
+Namrata Dalmia, Head of Research & Production, Quantic India
+
+Esteemed Panel Speakers:
+Ashok Kumar Pandey, Director Engineering DevOps, Leapwork
+Abhishek Dixit, Vice President & Head SRE, Axis Max Life Insurance Limited
+Vipin Jain, CTO & CPO, CollegeDekho
+Sushan Rungta, CTO, Absolute
+Vikram Singla, AVP, Airtel Digital
+Ashish Agrawal, Head of Architecture & DevOps, BCS Technology International Pty Ltd
+Nitin Jain, CTO, ShareChat
+
+⚡️Don't forget to subscribe to our channel for more insightful discussions. 
+
+#quanticawards #quanticdevopsshow #insights #devops 
+
+Our mission at Quantic Awards is to celebrate visionary leaders and empower them with the latest innovations, driving impactful change and inspiring the next generation of leadership excellence.",Quantic India,UCajVGGfT-8FE82ST0yXHghQ,2025-10-07 00:00:00+00:00,https://i.ytimg.com/vi/BW6flUfZyHo/maxresdefault.jpg,52,4,7.523613963039014,6.91,
+NAuSUzwsEKY,Starting the DevSecOps journey - DevSecOps SG,"Everyone talks about DevSecOps being more than tools and processes, about the need for security culture. When it's your responsibility to make it happen, what do you actually do?
+I love software-centric threat modelling because it's not a nebulous ""think like an attacker"", it's actually a practical structured approach. This talk is about bringing the same energy to the elusive security culture and of course the role that threat modelling has to play.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2022-06-21 00:00:00+00:00,https://i.ytimg.com/vi/NAuSUzwsEKY/maxresdefault.jpg,46,0,47.08008213552361,0.98,0.0
+IeNrrXKal0w,Platform Engineering | DevSecOps SG,"Many organisations are increasingly employing some form of Platform Engineering.
+• Should your organisation be doing this and if so, how could it help improve your application development processes?
+• Platform Engineering has emerged as a hot new topic in the DevOps, DevSecOps and Cloud systems world.
+• But, what is it?
+• Is Platform Engineering part of DevOps?
+• Is DevOps part of Platform Engineering?
+• And what about IDPs?
+• And, from the DevSecOps perspective, how is all of this kept secure?
+Automation brings speed and power but, as the old maxim goes, power without responsibility is a danger. Andrew's presentation will give his personal view on all this and highlight the areas of opportunity and concern as well as emphasising the role of true observability in ensuring platform engineering plays well with security and accountability.
+Please come along to understand this new discipline and if you already have some experience in this field, there will be an opportunity to share ideas.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-10-29 00:00:00+00:00,https://i.ytimg.com/vi/IeNrrXKal0w/maxresdefault.jpg,42,0,18.792607802874745,2.23,0.0
+K8BfjJvkTBc,Will the real 'Shift Left' please stand up? Devsecops Specialist Group,"Synopsis
+Join Nick Shamsfard, a Sales Engineer with Mend.io, as we dive into the work of Application Security and unravel the true meaning of the term 'Shifting Left'.
+We'll discuss the challenges, both hypothetical and practical, that you can expect to encounter and what the realities of shifting left in any organisation look like. Mend.io is recognised as an Application Security Testing (AST) leader, providing a platform for open-source security and code security, to help organisations manage and trust their software assets.
+Nick will share his experience and include a practical demonstration of how and why application security considerations can be handled as an integrated part of the development life cycle.
+About the speaker
+Nick Shamsfard
+Nick has been in the IT industry for 10 years now, working with companies such as Coca-Cola European Partners, Unipart, Amey. His primary role is pre- and post-sales support in EMEA & APAC, helping both new and existing customers implement best practices to secure their SDLC using the Mend's tooling suite.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-03-04 00:00:00+00:00,https://i.ytimg.com/vi/K8BfjJvkTBc/maxresdefault.jpg,36,0,26.64476386036961,1.35,
+Bur1euKu9xg,DevSecOps in the Age of Software Supply Chain Attacks - 24. April 2020,"Fighting Cabin Fever! Founded by K15t, kreuzwerker and Scandio to provide everyday Brain Jogging with Lightning Talks.
+
+
+This Lightning Talk is presented by Adam Such from Sonatype. 
+""Automate or Die - DevSecOps in the Age of Software Supply Chain Attacks.""
+ 
+
+No Cabin Fever on Social Media
+Twitter: https://twitter.com/No_Cabin_Fever
+Instagram: https://www.instagram.com/no.cabin.fe...
+
+No Cabin Fever Today",No Cabin Fever Today,UC2jfUMVF2bXnVSJT78qZzRg,2020-04-27 00:00:00+00:00,https://i.ytimg.com/vi/Bur1euKu9xg/maxresdefault.jpg,34,4,72.870636550308,0.47,
+2t6beAamzto,"Threat Modelling in the Cloud: Tools, Frameworks and Live Demos | Devsecops specialist group","SPEAKER
+Roy Harrow                                                                                           SYNOPSIS
+This event will introduce the topic of Threat Modelling and show how it forms an essential part of the ""shift-left"" philosophy and practice of DevSecOps processes in support of modern applications development. In fact if could be said that Threat Modelling is key to any successful secure development life-cycle (SDLC). The cloud threat landscape and some common challenges will be reviewed to help explain the need for a structured approach to understanding the risks early when creating new cloud applications. An introduction to the well-established STRIDE framework for threat modelling will be used with some other techniques for helping to identify and assess potential risks for cloud applications. Reference will be made to useful resources to apply these processes. As many threat modelling techniques are based on the analysis of process flow diagrams, some common freely available tools will be demonstrated with examples covering a number of cloud deployments, such as IaaS, PaaS, SaaS and serverless scenarios. Best practices will be discussed with links to important online resources from organisations such as OWASP and the Cloud Security Alliance (CSA). This event will be useful for anyone creating new cloud applications and anyone working in DevOps, DevSecOps or other Information Security role supporting cloud implementations.
+
+SPEAKER BIOGRAPHY
+Roy Harrow is the Chair of the DevSecOps BCS Group and has worked in a wide range of roles in information technology and information security. His experience includes financial services, public sector work, security consulting and security architecture. Roy is currently working for Sainsbury's in a cloud security role as part of the information security team.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2025-06-04 00:00:00+00:00,https://i.ytimg.com/vi/2t6beAamzto/maxresdefault.jpg,29,0,11.630390143737166,2.49,0.0
+_cqcTlWWheg,"Observability in DevSecOps, Wider Than Three Pillars | DevSecOps SG","Observability is often presented by vendors as being based on the three pillars of Logs, Metrics and Traces.
+
+However, true Observability is about far more than that and how they are exploited. Observability is not just for production servers, it's now vital for the DevOps, DevSecOps and SDLC processes due to audit, compliance and supply chain integrity requirements.
+
+The dark corners that true Observability illuminates are the 'Fourth Quadrant' problems - the unknown unknowns.
+
+The goal is Actionable Intelligence, presenting the issue along with supporting context to help handle it.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2025-05-19 00:00:00+00:00,https://i.ytimg.com/vi/_cqcTlWWheg/maxresdefault.jpg,28,1,12.15605749486653,2.3,0.0
+pe36YwI1gYk,Secure and Repeatable Deployments through Strong Secrets Management | Devsecops specialist group,"How to provide secure access to your databases and other services for your applications and your support teams.
+Speaker
+Nic Jackson, Developer Advocate, HashiCorp
+Agenda
+6:00pm - Refreshments and networking
+6:30pm - Main presentation – Nic Jackson, Developer Advocate, HashiCorp
+7:30pm - Questions and answers, Chaired by Roy Harrow, BCS DevSecOps SG
+8:00pm - Light refreshments for those who are able to attend in person
+8:45pm - Event ends
+Synopsis
+You will learn the following:
+How to provide dynamic short-lived database credentials for your applications with Vault.
+How to enable human access to databases and servers without the need for bastion server or public endpoints using Boundary Moving fast and staying agile are two core principles of modern application development.
+To achieve these, you need to be in control of the entire lifecycle of your application, including any dependent infrastructure.
+Using the tools Vault and Boundary created by HashiCorp, this talk teaches you two simple zero-trust principles regarding the security of your application's datastore.
+Nic will explain and demonstrate the principles of strong secrets management and show how support staff can securely access and support systems.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2023-09-29 00:00:00+00:00,https://i.ytimg.com/vi/pe36YwI1gYk/maxresdefault.jpg,27,0,31.802874743326488,0.85,0.0
+Ng4m_PLoBTM,Automating the software supply chain to reduce application security risks |  DevSecOps SG,"The phrase “software supply chain” is relatively new, coined around 2014 as a result of a growing awareness of the role of open-source components in the Software Development Life-Cycle (SDLC).
+Sonatype was one of the first organisations to adopt the phrase, along with its natural extension, “software supply chain management.” Much in the same way as a car manufacturer needs to source, track and monitor the quality of components used in the manufacture of a motor vehicles, anyone in the software industry should understand the same. Organisations involved in software development need to understand how to enable their teams to develop at scale and speed, without compromising quality, security or governance.
+DevSecOps experts from Sonatype will explain the challenges of the “software supply chain” and demonstrate how modern developer-friendly technology such as their open-source and licenced products can help reduce security risks and improve productivity.
+By attending this event you will be able to see how DevSecOps tools and processes can support developers and so eliminate the friction and risks associated with performing manual checks. This talk is relevant to application developers, security professional and anyone learning, implementing or supporting DevOps/DevSecOps automation technologies.
+Sonatype’s software supply chain management platform helps more than 2,000 organizations and 15 million software developers simultaneously accelerate innovation and improve application security. Sonatype’s machine learning engine (Nexus Intelligence) has analysed more than 100 million open source components which can be used to help developers make better decisions.
+Sonatype have a range of open-source and free tools available that are ideal for learning as well as providing some useful foundational capabilities to development teams.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2022-11-25 00:00:00+00:00,https://i.ytimg.com/vi/Ng4m_PLoBTM/maxresdefault.jpg,27,0,41.921971252566735,0.64,0.0
+DoXeJY3ofZs,Software supply chain integrity | BCS DevSecOps specialist group,"Please join us for a review of some of the challenges of managing software supply chains and how DevSecOps processes and technology play a crucial role in helping to address the requirements.
+The SolarWinds hack clearly demonstrated the damaging impact supply chain compromise can generate and served dramatically to raise the profile and importance of supply chain integrity.
+In this presentation Andrew will examine the threat points in the software creation pipeline processes, from code commit through to application deployment, highlighting the valuable contributions of Open Source initiatives and tools.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2021-12-23 00:00:00+00:00,https://i.ytimg.com/vi/DoXeJY3ofZs/maxresdefault.jpg,26,0,52.993839835728956,0.49,0.0
+BeXoMObbC_c,The DevSecOps Journey: your fast track pass | DevSecOps SG,"SYNOPSIS
+An interactive session bringing the entire DevSecOps journey together. The session will define the values of all Security tasks within the DevSecOps process and importantly highlight their value when combined effectively. The end goal of this session is to enable your teams to use the tools and processes you have with the most efficiency and impact.
+Target audience: Anyone involved in an IT project who would like to understand how to ensure security controls are considered from the start to the end of the journey. The meeting will start with a short AGM for the BCS DevSecOps group.
+Please contact Roy Harrow (via chairdevsecops@bcs.org) if you would like get involved.
+For information on the BCS DevSecOps group and slides and recordings of previous events, please see our web page at: https://www.bcs.org/membership-and-registrations/member-communities/devsecops-specialist-group/
+ SPEAKER BIOGRAPHY
+Katie started her journey at IBM 7 years ago in the Cloud Security team where she designed secure cloud architectures for a range of clients.
+She later took a focus on Application Security and works with her colleagues to ensure clients are empowered to secure applications in line with their requirements. Katie has been fortunate enough to speak at many events and leads the London Chapter of the Threat Modelling Connect Community.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2025-12-03 00:00:00+00:00,https://i.ytimg.com/vi/BeXoMObbC_c/maxresdefault.jpg,21,0,5.650924024640657,3.72,0.0
+5O4FBmWO1t4,AGM + Establishing sustainable DevSecOps practices | DevSecOps,"DevSecOps is a key strategy in providing secure solution to your clients. Easily achieved in industries where there are a couple of big solutions. What if you have 8,000 different products sold internally and externally, covering everything from national infrastructure to mobile networks, SIEM offerings, and various integration services, a TV service! How can you meaningfully and sustainably achieve the ultimate shift left? Traditional DevSecOps, fixed around a single toolset, reporting on existing vulnerabilities only after coding is done isn't helping larger, more complex organisations. If such organisations can instead look at protecting against weaknesses from day one in our development life-cycles, we get real benefits from day one. Shift that focus to one that can flexibly incorporate different scanners according to the subject matter in hand, and we have something that can be widely adopted. Sam will present a case study on how her team has tackled this challenging problem.                                                                                                                                                                                      Sam Watkins did a BCS accredited Computer Science and Mathematics in Hull before joining BT in 1997 as a graduate. They have focused their career on helping organisations achieve more through the use of technology. Acting as Responsible Owner for Establishing Sustainable DevSecOps practices, Sam has been using automated delivery practices since 2004, making the move to DevOps and DevSecOps in 2014.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2024-12-18 00:00:00+00:00,https://i.ytimg.com/vi/5O4FBmWO1t4/maxresdefault.jpg,18,0,17.149897330595483,1.05,0.0
+3NTetSrh0ZY,Automating Secure Infrastructure through code and ML Ops | DevSecOps SG,"Modern ML systems fail in different ways: inconsistent environments, leaky secrets, overly permissive data access, and problems such as ""it worked on my own PC, server or GPU"", but doesn't work when I deployed it to the production environment.
+
+This talk shows how to automate Infrastructure as Code (IaC) and ML Ops using Terraform as the control plane, provisioning not only network and compute resources, but also ML foundational services such as artefact stores, model registries, feature stores, and secure service identities.
+
+We'll build a DevSecOps workflow that shifts security left: including static IaC scanning (using tools such as TFLint, Trivy/Checkov), policy-as-code guardrails (with OPA/Rego via Conftest), and secrets management (using SOPS + Vault) enforced from pre-commit to CI/CD (using Jenkins).
+
+This talk will look at patterns for encrypted remote state, signed and auditable plan/apply, least-privilege access to data and models, and drift detection. The aim is to ensure changes to platforms are reproducible, compliant, and ""production-safe"" as they scale.
+
+Target audience:
+
+Platform/Infrastructure engineers building cloud foundations and internal platform.
+ML platform / ML Ops engineers automating training/serving environments and pipelines.
+DevSecOps / Security engineers enforcing policy, compliance, and secure delivery.
+Data engineers/analytics platform teams who manage governed storage and access.
+Tech leads/architects standardising delivery across multiple teams/environments.",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2026-03-12 00:00:00+00:00,https://i.ytimg.com/vi/3NTetSrh0ZY/maxresdefault.jpg,17,0,2.3983572895277208,7.09,
+y5iCJjC0ghE,Modernising Greenpeace Technical Operations Delivery with Automation | DevSecOps SG,"Digital transformation, and digital agility in any organisation is a requirement. These capabilities rely on many interconnecting people, processes and systems.
+
+In this talk Joe will explain how and why Greenpeace International Global IT department, has adopted Site Reliability Engineering (SRE) and DevSecOps practices to enable digital success.
+
+This talk with explain why Greenpeace International's old operations department needed to change to support the organisation's growing digital transformation ambitions.
+
+This will cover the following topics:
+* How it started
+* The Operations Team
+* Physical data Centres
+* IT on Ships
+* Click Ops
+* SRE Team
+* Cloud and SAAS
+* Code First
+* Continues Integration (CI)
+* Continues Delivery (CD)
+* Automation that allows patching of infrastructure every 6 hours",BCS Member Groups,UCVkozrz9LHYPgwIsbw_-3gQ,2025-07-30 00:00:00+00:00,https://i.ytimg.com/vi/y5iCJjC0ghE/maxresdefault.jpg,16,0,9.790554414784394,1.63,0.0
+LfQcf58mhUI,What is DevSecOps and Why it's Important to Adapt it Nowadays - Virtual Developers Conference 2020,"As nimble organizations deliver new innovations, adversaries are also upping their game; something we’ve seen in recent high profile and devastating cyber attacks. Bad actors have the intent and ability to exploit security vulnerabilities in the software supply chain - and in some cases plant vulnerabilities themselves. They have increased scale through automation and improved breach success through precision targeting. If we don’t fight back by doing the same - automating security directly in the DevOps pipeline - then we’ll always be at the hackers’ mercy. This session will provide new research on the above, and details on how to get started.
+
+Key takeaways: 
+
+● Real-world examples of how large and small companies are implementing DevSecOps practices in their own delivery pipelines, and increasing developer awareness to risks 
+● Key insights from the 2019 DevSecOps community report - including the top investments for automated security
+● A walkthrough of how security principles have been automated into a CICD pipeline and what standards for implementation are beginning to follow suite 
+● Why DevSecOps is more than a buzzword, and why it’s vital to protecting your software supply chain 
+● How automating security of policies makes it harder to ignore.
+
+
+About: Ilkka Turunen
+Global Director at Sonatype
+
+In his day job Ilkka runs the Solutions Architecture team at Sonatype, helping customers all around the world understand and affect their software supply chains. 
+
+Twitter: https://twitter.com/llkkaT",Mauritius Software Craftsmanship Community,UCeLiAZ5TlJla_uDj8_KndyA,2021-02-06 00:00:00+00:00,https://i.ytimg.com/vi/LfQcf58mhUI/maxresdefault.jpg,16,0,63.507186858316224,0.25,
